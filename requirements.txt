@@ -1,0 +1,5 @@
+flask
+opencv-python
+tensorflow
+tensorflow_hub
+tf-nightly

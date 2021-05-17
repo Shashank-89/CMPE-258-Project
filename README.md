@@ -12,7 +12,7 @@ Use OpenCV-Python and Flask to create a web streaming video recorder for camera.
 1. Install **Flask**:
 
     ```
-    pip install flask
+    pip install -r requirements.txt
     ```
 
 2. Run the app:
